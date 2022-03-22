@@ -1,0 +1,15 @@
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\bin\Debug\net6.0\PracticaTesting.exe
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\bin\Debug\net6.0\PracticaTesting.deps.json
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\bin\Debug\net6.0\PracticaTesting.runtimeconfig.json
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\bin\Debug\net6.0\PracticaTesting.dll
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\bin\Debug\net6.0\PracticaTesting.pdb
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.csproj.AssemblyReference.cache
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.AssemblyInfoInputs.cache
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.AssemblyInfo.cs
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.csproj.CoreCompileInputs.cache
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.dll
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\refint\PracticaTesting.dll
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.pdb
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\PracticaTesting.genruntimeconfig.cache
+E:\gitprojects\randallchacon\PracticaTesting\PracticaTesting\obj\Debug\net6.0\ref\PracticaTesting.dll
